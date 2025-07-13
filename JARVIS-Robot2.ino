@@ -1,7 +1,6 @@
 #include <ESP8266WiFi.h>
-
-const char* ssid = "Your_WiFi_SSID";  // Replace with your WiFi SSID
-const char* password = "Your_WiFi_Password";  // Replace with your WiFi Password
+const char* ssid = "Galaxy A22 5G4862";  // Replace with your WiFi SSID
+const char* password = "lezc4808";  // Replace with your WiFi Password
 
 WiFiServer server(80);
 
